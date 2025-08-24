@@ -1,11 +1,11 @@
-# 📂 Event Management Database – Part 1
+# 📂 Event Management Database
 
 This part of the project focuses on designing and setting up the **database schema** for an Event Management Platform.  
 The database supports user registrations, event creation, and RSVP tracking.
 
 ---
 
-## ✨ Features of Part 1
+## ✨ Features
 - Database schema with **3 main tables**: `Users`, `Events`, and `RSVPs`
 - Relationship management using **foreign keys**
 - Support for multiple RSVP statuses (`Yes`, `No`, `Maybe`)
